@@ -3,7 +3,8 @@
 ## Introduction
 
 The **AREA project** is a software suite designed to function similarly to IFTTT and Zapier. It allows users to automate tasks by creating workflows that connect different applications and services seamlessly.
-
+<br>
+```(There is 383 commits on the main project)``` 
 ### Architecture
 
 The project is divided into three main components:
